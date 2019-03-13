@@ -1,4 +1,7 @@
 hi
 this is src file
+<<<<<<< HEAD
 this is reset cmd in src file
+=======
+>>>>>>> 4d4803ccc6aac6982e68e3b13df8bbcd26c96cc9
 
